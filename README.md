@@ -1,3 +1,6 @@
+This is a project I worked on in class.
+
+
 # Queen Two-Player Game
 
 In this game, two players take turns moving a black queen on a chessboard. The queen starts randomly in either the top row (row 8) or the rightmost column (column h). The goal is to move the queen to the bottom-left square (a1).
